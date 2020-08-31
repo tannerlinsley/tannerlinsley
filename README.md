@@ -1,4 +1,4 @@
-Supercharging your React applications' user experience with ⚛️ React Query, ⚛️ React Table, ⚛️ React Charts, ⚛️ React Virtual, ⚛️ React Form, 🏊‍♂️ Swimmer. Previously 📊 Chart.js, ⚛️ React Static and 🔀 Crossfilter
+#### Supercharging your React applications' user experience with ⚛️ React Query, ⚛️ React Table, ⚛️ React Charts, ⚛️ React Virtual, ⚛️ React Form, 🏊‍♂️ Swimmer. Previously 📊 Chart.js, ⚛️ React Static and 🔀 Crossfilter
 
 ---
 
