@@ -3,6 +3,7 @@
 - ⚛️ React Table
 - ⚛️ React Charts
 - ⚛️ React Virtual
+- ⚛️ React Location
 - ⚛️ React Form,
 - 🏊‍♂️ Swimmer
 
