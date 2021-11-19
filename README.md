@@ -1,11 +1,11 @@
 ### Supercharging the React ecosystem with projects and products like:
-- ⚛️ React Query
-- ⚛️ React Table
-- ⚛️ React Charts
-- ⚛️ React Virtual
-- ⚛️ React Location
-- ⚛️ React Form,
-- 🏊‍♂️ Swimmer
+- ⚛️ [React Query](https://github.com/tannerlinsley/react-query)
+- ⚛️ [React Table](https://github.com/tannerlinsley/react-table)
+- ⚛️ [React Charts](https://github.com/tannerlinsley/react-charts)
+- ⚛️ [React Virtual](https://github.com/tannerlinsley/react-virtual)
+- ⚛️ [React Location](https://github.com/tannerlinsley/react-location)
+- ⚛️ [React Form](https://github.com/tannerlinsley/react-form)
+- 🏊‍♂️ [Swimmer](https://github.com/tannerlinsley/swimmer)
 
 > Previously 📊 Chart.js, ⚛️ React Static and 🔀 Crossfilter
 
