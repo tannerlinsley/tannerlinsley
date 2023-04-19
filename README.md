@@ -1,10 +1,11 @@
-### Supercharging the React ecosystem with projects and products like:
-- ⚛️ React Query
-- ⚛️ React Table
+### Supercharging the React ecosystem via [TanStack](https://tanstack.com) with projects and products like:
+- 🤖 TanStack Query
+- 🤖 TanStack Table
+- 🤖 TanStack Router
+- 🤖 TanStack Start
+- 🤖 TanStack Virtual
+- 🤖 TanStack Form
 - ⚛️ React Charts
-- ⚛️ React Virtual
-- ⚛️ React Location
-- ⚛️ React Form,
 - 🏊‍♂️ Swimmer JS
 
 > Previously 📊 Chart.js, ⚛️ React Static and 🔀 Crossfilter
@@ -13,7 +14,7 @@
 
 Hello! I build open source software that is currently used by hundreds of thousands of developers at companies ranging from fortune 500 companies like Apple, Google, Facebook, Amazon, Netflix, Walmart, and Target all the way down to startups and indie developers.
 
-Most of my open source software is written in Javascript and focused on React, Remote/Server State Management, Data Grids/Tables, Data Visualization, and Enterprise Application Architecture. 
+Most of my open source software is written in Javascript and focused on Headless UI, State Management, Data Viz, and Enterprise Application Architecture.
 
 ### For Developers
 
