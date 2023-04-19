@@ -5,7 +5,7 @@
 - ⚛️ React Virtual
 - ⚛️ React Location
 - ⚛️ React Form,
-- 🏊‍♂️ Swimmer
+- 🏊‍♂️ Swimmer JS
 
 > Previously 📊 Chart.js, ⚛️ React Static and 🔀 Crossfilter
 
